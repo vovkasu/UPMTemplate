@@ -1,0 +1,26 @@
+{
+  "name": "com.mycompany.tool",
+  "version": "1.0.0",
+  "displayName": "My Awesome Tool",
+  "description": "Short description.",
+  "unity": "2021.3",
+  "license": "MIT",
+  "dependencies": {
+    "com.uapp-toolkit.animations": "1.0.3"
+  },
+  "keywords": [
+    "keyword1",
+    "keyword2"
+  ],
+  "author": {
+    "name": "Surov Volodymyr",
+    "email": "vovkasu@gmail.com"
+  },
+  "samples": [
+    {
+      "displayName": "Basic Example",
+      "description": "Standard usage scenarios",
+      "path": "Samples~/BasicExampleSample"
+    }
+  ]  
+}  
